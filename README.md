@@ -26,7 +26,9 @@ This will execute the code and prompt you to enter the two numerical inputs a an
 Note that the code I provided uses a quantum simulator to simulate the quantum circuit. If you have access to a real quantum device, you can modify the code to run the circuit on the device instead by specifying the appropriate backend in the execute function.
 
 
+Kindly cite : 
 
+Thomas Jayachandran AV. Application Overview of Quantum Computing for Gas Turbine Design and Optimization [Internet]. Vol. 2022, AI, Computer Science and Robotics Technology. IntechOpen; 2022. p. 1–12. Available from: http://dx.doi.org/10.5772/acrt.10
 
 
 
